@@ -118,7 +118,7 @@ Die Fallzahlendaten enthalten die in der folgenden Tabelle abgebildeten Merkmale
 | -------- | -------- | -------- |
 | IdLandkreis   | 1001 bis 16077    | Identifikationsnummer des Landkreises basierend auf dem Amtlichen Gemeindeschlüssel (AGS) zuzüglich der 12 Bezirke Berlins (11001 bis 11012); Gebietsstand: 30.06.2020 (2. Quartal) |
 |Geschlecht| W, M, unbekannt | Geschlecht der Fallgruppe: weiblich (W), männlich (M) und (unbekannt)|
-| Altersgruppe | A00-04, A05-14, A15-A34, A35-A59, A60-A79, A80+, unbekannt | Altersspanne der in der Gruppe enthaltenen Fälle, stratifiziert nach 0-4 Jahren, 5-14 Jahren, 15-34 Jahren, 35-59 Jahren, 60-79 Jahren, 80+ Jahren sowie unbekannt
+| Altersgruppe | A00-A04, A05-A14, A15-A34, A35-A59, A60-A79, A80+, unbekannt | Altersspanne der in der Gruppe enthaltenen Fälle, stratifiziert nach 0-4 Jahren, 5-14 Jahren, 15-34 Jahren, 35-59 Jahren, 60-79 Jahren, 80+ Jahren sowie unbekannt
 |Meldedatum | JJJJ-MM-TT | Datum, wann der Fall dem Gesundheitsamt bekannt geworden ist. JJJJ entspricht der Jahreszahl, MM dem Monat und TT dem Tag. 
 |Refdatum | JJJJ-MM-TT | Datum des Erkrankungsbeginns. Wenn das nicht bekannt ist, das Meldedatum.
 | IstErkrankungsbeginn| 0, 1 |  1: Refdatum ist der Erkrankungsbeginn 0: Refdatum ist das Meldedatum  |
