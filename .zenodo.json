@@ -1,6 +1,6 @@
 {
   "title": "SARS-CoV-2 Infektionen in Deutschland",
-  "description": "<p>Im Datensatz 'SARS-CoV-2 Infektionen in Deutschland' werden die tagesaktuellen Fallzahlen, der nach den Vorgaben des Infektionsschutzgesetzes - IfSG - von den Gesundheitsämtern in Deutschand gemeldeten positiven SARS-Cov-2 Infektionen, Todes- und Genesungsfälle bereitgestellt.</p>",
+  "description": "Im Datensatz 'SARS-CoV-2 Infektionen in Deutschland' werden die tagesaktuellen Fallzahlen, der nach den Vorgaben des Infektionsschutzgesetzes - IfSG - von den Gesundheitsämtern in Deutschand gemeldeten positiven SARS-Cov-2 Infektionen, Todes- und Genesungsfälle bereitgestellt.",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "cc-by",
@@ -69,5 +69,5 @@
       "identifier": "info:ddc/22/eng//614.4"
     }
   ],
-  "publication_date": "2021-12-02T03:29:33+01:00"
+  "publication_date": "2021-12-03T03:31:46+01:00"
 }
